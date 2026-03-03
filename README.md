@@ -12,7 +12,7 @@
 - **Frameworks/Libraries:** PyTorch, TensorFlow, Keras, OpenCV, Hugging Face, Scikit Learn.
 - **Languages:** Python, C, SQL, Java.
 
-### 📫 Let's Connect
+### For Connections
 - **LinkedIn:** [linkedin.com/in/latchan-chhetri-704380297](https://linkedin.com/in/latchan-chhetri-704380297)
 - **Email:** latchanchhetri19@gmail.com
 
