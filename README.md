@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Latchan Chhetri </h1>
 
-<!--
-**Latchan-Ch/Latchan-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">CSE (AI & Data Science) Student | ML, DL, VLM & Computer Vision Researcher</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I am an AI and Data Science undergraduate specializing in Machine Learning, Deep Learning, Vision Language Models and Computer Vision. My research focuses on building highly efficient, robust models for medical imaging, remote sensing, space manufacturing, and so on. I actively translate cutting-edge research papers into open-source implementations.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Tech Stack & Tools
+- **Domains:** Computer Vision, Medical Image Analysis, Remote Sensing, State Space Models (Mamba), Vision Transformers, Vision Language Models, Diffusion Models.
+- **Frameworks/Libraries:** PyTorch, TensorFlow, Keras, OpenCV, Hugging Face, Scikit Learn.
+- **Languages:** Python, C, SQL, Java.
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/latchan-chhetri-704380297](https://linkedin.com/in/latchan-chhetri-704380297)
+- **Email:** latchanchhetri19@gmail.com
+
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Latchan-Ch&show_icons=true&theme=radical" alt="Latchan Chhetri GitHub Stats" />
+</p>
