@@ -13,12 +13,12 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 </p>
 
 ---
+
 # About Me
 
 <table>
 <tr>
-
-<td width="70%" valign="top">
+<td width="60%">
 
 ### Researcher Profile
 
@@ -26,8 +26,8 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 -  Working on:
   - Medical Imaging
   - Computer Vision
-  - OCR Systems
   - Remote Sensing
+  - OCR Systems
   - Vision Language Models (VLMs)
 
 - Interested in efficient and robust AI systems
@@ -35,18 +35,13 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 
 </td>
 
-<td width="30%" valign="middle">
+<td width="40%">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180">
-</p>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
 </td>
-
 </tr>
 </table>
-
----
 
 # Publications & Research Focus
 
