@@ -58,20 +58,4 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 
 ---
 
-# Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
 
