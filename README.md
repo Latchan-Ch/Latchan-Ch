@@ -20,9 +20,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 <tr>
 <td width="60%">
 
-### Researcher Profile
-
--  CSE (AI & DS) Undergraduate Researcher
+### CSE (AI & DS) Undergraduate Researcher
 -  Working on:
   - Medical Imaging
   - Computer Vision
