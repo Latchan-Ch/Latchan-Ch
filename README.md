@@ -30,9 +30,6 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
   - OCR Systems
   - Vision Language Models (VLMs)
 
-- Interested in efficient and robust AI systems
-- Goal: Direct PhD in AI / Computer Vision
-
 </td>
 
 <td width="50%">
