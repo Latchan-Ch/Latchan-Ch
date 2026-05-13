@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Latchan Chhetri</h1>
 
 <h3 align="center">
-AI & ML Researcher | Computer Vision | Medical Imaging | OCR Systems
 </h3>
 
 <p align="center">
