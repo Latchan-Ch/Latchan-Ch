@@ -14,21 +14,6 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR | VLM's
 
 ---
 
-# Publications & Research
-
-- Research implementation projects in:
-  - Medical Imaging
-  - XAI & SSL
-  - Vision Transformers
-  - Remote Sensing AI
-  - OCR Systems
-  - Vision Language Models
-
-- Focused on reproducible AI research systems
-- Building efficient deep learning architectures
-
----
-
 # About Me
 
  CSE (AI & DS) Undergraduate Researcher
@@ -44,14 +29,20 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR | VLM's
 
 ---
 
-# Current Focus
+---
 
-- Bio-Medical AI
-- Remote Sensing Foundation Models
-- Efficient Deep Learning Architectures
-- Explainable AI (XAI)
-- OCR Systems
-- Vision Language Models (VLMs)
+# Publications & Research Focus
+
+- Research implementation projects in:
+  - Medical Imaging
+  - XAI & SSL
+  - Vision Transformers
+  - Remote Sensing AI
+  - OCR Systems
+  - Vision Language Models
+
+- Focused on reproducible AI research systems
+- Building efficient deep learning architectures
 
 ---
 
@@ -60,6 +51,14 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR | VLM's
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Latchan-Ch&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Latchan-Ch&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latchan-Ch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 ---
