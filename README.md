@@ -5,7 +5,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR Systems
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F3F,100:0074D9&height=300&section=header&text=Latchan%20Chhetri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20%Researcher%7C%20%Medical%20%Imaging%7C%20%OCR%20%Systems&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F3F,100:0074D9&height=300&section=header&text=Latchan%20Chhetri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20%Researcher%20%7C%20%Medical%20%Imaging%20%7C%20%OCR%20%Systems&descAlignY=60"/>
 </p>
 
 <p align="center">
