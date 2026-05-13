@@ -50,6 +50,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR Systems
 
 - Focused on reproducible AI research systems
 - Building efficient deep learning architectures
+- Goal: Direct PhD in AI / Computer Vision
 
 ---
 
