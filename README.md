@@ -13,23 +13,48 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 </p>
 
 ---
-
 # About Me
 
- CSE (AI & DS) Undergraduate Researcher
- Working on:
+<table>
+<tr>
+
+<td width="60%">
+
+###  Researcher Profile
+
+-  CSE (AI & DS) Undergraduate Researcher
+
+-  Working on:
   - Medical Imaging
   - Computer Vision
   - Remote Sensing
-  - Vision Language Models (VLMs)
   - OCR Systems
-- Interested in efficient and robust AI systems
-- Building open-source implementations of research papers
-- Goal: Direct PhD in AI / Computer Vision
+  - Vision Language Models (VLMs)
+
+
+-  Interested in efficient and robust AI systems
+
+-  Building open-source implementations of research papers
+
+-  Goal: Direct PhD in AI / Computer Vision
+
+###  Motto
+
+> Building intelligent systems for real-world impact.
+
+</td>
+
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
----
 
 # Publications & Research Focus
 
@@ -45,8 +70,6 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 - Building efficient deep learning architectures
 
 ---
-
-# GitHub Analytics
 
 # GitHub Analytics
 
