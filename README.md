@@ -9,7 +9,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR Systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Computer+Vision+%7C+AI+&+ML+Researcher;Medical+Imaging+%7C+Remote+Sensing;OCR+Systems+%7C+Deep+Learning;Building+Open+Source+AI+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Computer+Vision+%7C+AI/ML+Researcher;Medical+Imaging+%7C+Remote+Sensing;OCR+Systems+%7C+Deep+Learning;Building+Open+Source+AI+Projects"/>
 </p>
 
 ---
