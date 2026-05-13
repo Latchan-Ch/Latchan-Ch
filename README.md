@@ -17,37 +17,36 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 
 <table>
 <tr>
-<td valign="top" width="65%">
+
+<td width="70%" valign="top">
 
 ### Researcher Profile
 
-- CSE (AI & DS) Undergraduate Researcher
-
+-  CSE (AI & DS) Undergraduate Researcher
 -  Working on:
   - Medical Imaging
   - Computer Vision
-  - Remote Sensing
   - OCR Systems
+  - Remote Sensing
   - Vision Language Models (VLMs)
-  
-- Interested in efficient and robust AI systems
 
+- Interested in efficient and robust AI systems
 - Goal: Direct PhD in AI / Computer Vision
 
 </td>
 
-<td valign="center" width="35%">
+<td width="30%" valign="middle">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180">
 </p>
 
 </td>
+
 </tr>
 </table>
 
 ---
-
 
 # Publications & Research Focus
 
