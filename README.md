@@ -29,14 +29,25 @@ AI & Data Science Researcher | Computer Vision | VLMs | Medical Imaging
 
 ---
 
+# 🧠 Current Focus
+
+- Vision Language Models (VLMs)
+- Medical AI
+- Remote Sensing Foundation Models
+- Efficient Deep Learning Architectures
+- Explainable AI (XAI)
+- Generative AI & Diffusion Models
+
+---
+
 # 🧠 Research Interests
 
 <p align="center">
 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Expert-blueviolet?style=for-the-badge)
-![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-Research-blue?style=for-the-badge)
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-AI-success?style=for-the-badge)
-![VLM](https://img.shields.io/badge/Vision%20Language%20Models-Research-orange?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Research-blueviolet?style=for-the-badge)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-AI-blue?style=for-the-badge)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-DeepLearning-success?style=for-the-badge)
+![Vision Language Models](https://img.shields.io/badge/VLMs-MultimodalAI-orange?style=for-the-badge)
 ![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-GenerativeAI-purple?style=for-the-badge)
 
 </p>
@@ -47,12 +58,12 @@ AI & Data Science Researcher | Computer Vision | VLMs | Medical Imaging
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-orange?style=for-the-badge&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge&logo=opencv)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?style=for-the-badge&logo=scikitlearn)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-blue?style=for-the-badge&logo=scikitlearn)
 ![NumPy](https://img.shields.io/badge/NumPy-ScientificComputing-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-DataScience-black?style=for-the-badge&logo=pandas)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)
@@ -65,13 +76,17 @@ AI & Data Science Researcher | Computer Vision | VLMs | Medical Imaging
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Latchan-Ch&show_icons=true&theme=tokyonight"/>
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Latchan-Ch&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Latchan-Ch&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Latchan-Ch&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latchan-Ch&layout=compact&theme=tokyonight"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latchan-Ch&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -80,12 +95,20 @@ AI & Data Science Researcher | Computer Vision | VLMs | Medical Imaging
 
 <p align="center">
 
-<a href="https://github.com/Latchan-Ch/YOUR_REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=YOUR_REPO_NAME&theme=tokyonight"/>
+<a href="https://github.com/Latchan-Ch/DDV-GNet-Space">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=DDV-GNet-Space&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Latchan-Ch/YOUR_REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=YOUR_REPO_NAME_2&theme=tokyonight"/>
+<a href="https://github.com/Latchan-Ch/Robust-Swin-Brain-Tumor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=Robust-Swin-Brain-Tumor&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Latchan-Ch/DDV-Mamba_for_Efficient_Remote_Sensing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=DDV-Mamba_for_Efficient_Remote_Sensing&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Latchan-Ch/SafeMed-SSL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=SafeMed-SSL&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -94,22 +117,15 @@ AI & Data Science Researcher | Computer Vision | VLMs | Medical Imaging
 
 # 📚 Publications & Research
 
-- 📄 Research implementations in:
+- 📄 Research implementation projects in:
   - Medical Image Segmentation
   - Vision Transformers
   - Remote Sensing AI
   - Diffusion Models
   - Vision Language Models
 
-- 🧪 Focused on building reproducible AI research systems
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Latchan-Ch/Latchan-Ch/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+- 🧪 Focused on reproducible AI research systems
+- 🚀 Building efficient deep learning architectures for real-world applications
 
 ---
 
@@ -117,11 +133,11 @@ AI & Data Science Researcher | Computer Vision | VLMs | Medical Imaging
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_LINK">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_GMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
