@@ -91,30 +91,6 @@ AI & Data Science Researcher | Computer Vision | VLMs | Medical Imaging
 
 ---
 
-# 🌟 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Latchan-Ch/DDV-GNet-Space">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=DDV-GNet-Space&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Latchan-Ch/Robust-Swin-Brain-Tumor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=Robust-Swin-Brain-Tumor&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Latchan-Ch/DDV-Mamba_for_Efficient_Remote_Sensing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=DDV-Mamba_for_Efficient_Remote_Sensing&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Latchan-Ch/SafeMed-SSL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latchan-Ch&repo=SafeMed-SSL&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-
 # 📚 Publications & Research
 
 - 📄 Research implementation projects in:
