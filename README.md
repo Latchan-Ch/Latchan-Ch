@@ -9,7 +9,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Vision+Researcher;Medical+Imaging+%7C+Remote+Sensing;Vision+Language+Models;OCR+Systems+%7C+Deep+Learning;Building+Open+Source+AI+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Vision;Medical+Imaging+%7C+Remote+Sensing;OCR+Systems+%7C+Deep+Learning;Building+Open+Source+AI+Projects"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="120%"/>
 
 </td>
 </tr>
