@@ -53,12 +53,6 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR Systems
 
 ---
 
-# GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Latchan-Ch&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 
