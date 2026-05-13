@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Latchan Chhetri</h1>
 
 <h3 align="center">
-AI & ML Researcher | Computer Vision | Medical Imaging | OCR | VLM's
+AI & ML Researcher | Computer Vision | Medical Imaging | OCR 
 </h3>
 
 <p align="center">
@@ -48,8 +48,6 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR | VLM's
 
 # GitHub Analytics
 
-# 📊 GitHub Analytics
-
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Latchan-Ch&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -57,6 +55,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR | VLM's
 <img width="49%" src="https://streak-stats.demolab.com?user=Latchan-Ch&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 ---
 
 # Connect With Me
