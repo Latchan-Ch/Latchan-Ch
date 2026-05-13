@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Latchan Chhetri</h1>
 
 <h3 align="center">
-AI & ML Researcher | Computer Vision | Medical Imaging | OCR 
+AI & ML Researcher | Computer Vision | Medical Imaging | OCR Systems
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Computer+Vision+%7C+Researcher;Medical+Imaging+%7C+Remote+Sensing;OCR+Systems+%7C+Deep+Learning;Building+Open+Source+AI+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Computer+Vision+%7C+AI+&+ML+Researcher;Medical+Imaging+%7C+Remote+Sensing;OCR+Systems+%7C+Deep+Learning;Building+Open+Source+AI+Projects"/>
 </p>
 
 ---
