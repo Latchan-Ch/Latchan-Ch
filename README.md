@@ -34,13 +34,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 
 -  Interested in efficient and robust AI systems
 
--  Building open-source implementations of research papers
-
 -  Goal: Direct PhD in AI / Computer Vision
-
-###  Motto
-
-> Building intelligent systems for real-world impact.
 
 </td>
 
