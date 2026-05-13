@@ -54,25 +54,6 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR | VLM's
 
 ---
 
-# Tech Stack
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-orange?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge&logo=opencv)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-blue?style=for-the-badge&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/NumPy-ScientificComputing-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-DataScience-black?style=for-the-badge&logo=pandas)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git)
-
-</p>
-
----
-
 # GitHub Analytics
 
 <p align="center">
