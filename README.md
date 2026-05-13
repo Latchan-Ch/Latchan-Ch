@@ -35,7 +35,7 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR
 
 </td>
 
-<td width="40%">
+<td width="50%">
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
