@@ -14,6 +14,21 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR | VLM's
 
 ---
 
+# Publications & Research
+
+- Research implementation projects in:
+  - Medical Imaging
+  - XAI & SSL
+  - Vision Transformers
+  - Remote Sensing AI
+  - OCR Systems
+  - Vision Language Models
+
+- Focused on reproducible AI research systems
+- Building efficient deep learning architectures
+
+---
+
 # About Me
 
  CSE (AI & DS) Undergraduate Researcher
@@ -40,44 +55,13 @@ AI & ML Researcher | Computer Vision | Medical Imaging | OCR | VLM's
 
 ---
 
-# Research Interests
-
-<p align="center">
-
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Research-blueviolet?style=for-the-badge)
-![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-AI-blue?style=for-the-badge)
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-DeepLearning-success?style=for-the-badge)
-![Vision Language Models](https://img.shields.io/badge/VLMs-MultimodalAI-orange?style=for-the-badge)
-![OCR](https://img.shields.io/badge/Diffusion%20Models-GenerativeAI-purple?style=for-the-badge)
-
-</p>
-
----
-
 # GitHub Analytics
 
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Latchan-Ch&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Latchan-Ch&theme=tokyonight&hide_border=true"/>
-
 </p>
----
-
-# Publications & Research
-
-- Research implementation projects in:
-  - Medical Imaging
-  - XAI & SSL
-  - Vision Transformers
-  - Remote Sensing AI
-  - OCR Systems
-  - Vision Language Models
-
-- Focused on reproducible AI research systems
-- Building efficient deep learning architectures
-
 ---
 
 # Connect With Me
