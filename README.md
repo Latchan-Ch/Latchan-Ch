@@ -19,7 +19,7 @@
 <tr>
 <td width="60%">
   
-### CSE (AI & DS) Undergraduate Researcher
+### Undergraduate Researcher & Team Lead
 -  Working on:
   - Medical Imaging
   - Computer Vision
