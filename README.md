@@ -49,7 +49,7 @@
 
 - Focused on reproducible AI research systems
 - Building efficient deep learning architectures
-- Goal: Direct PhD in AI / Computer Vision
+- Goal: Masters in AI / Computer Vision
 
 ---
 
