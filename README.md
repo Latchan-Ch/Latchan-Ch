@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-# Publications & Research Focus
+# Research Focus
 
 - Research implementation projects in:
   - Medical Imaging
