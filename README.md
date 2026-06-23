@@ -49,7 +49,7 @@ All of my active research and production codebases are hosted under the **[Halo 
 **Personal Portfolio:** [latchan-ch.github.io](https://latchan-ch.github.io/)
 
 
-**Research Group Portfolio:** [halomind-research.github.io](https://halomind-research.github.io/)
+**Research Group Page:** [halomind-research.github.io](https://halomind-research.github.io/)
 
 ---
 
