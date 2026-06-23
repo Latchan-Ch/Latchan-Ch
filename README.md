@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F3F,100:0074D9&height=300&section=header&text=Latchan%20Chhetri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20Lead%20Research%20Architect%20%7C%20State%20Space%20Models%20%7C%20Computer%20Vision&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F3F,100:0074D9&height=300&section=header&text=Latchan%20Chhetri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20Lead%20Research%20Architect%20%7C%20State%20Space%20Models%20%7C%20Computer%20Vision&descAlignY=60" />
 </p>
 
 <p align="center">
