@@ -19,13 +19,11 @@
 <tr>
 <td width="60%">
   
-### Undergraduate Researcher & Team Lead
--  Working on:
-  - Medical Imaging
-  - Computer Vision
-  - Remote Sensing
-  - OCR Systems
-  - Vision Language Models (VLMs)
+**Founder & Lead Research Architect @ [Halo Mind Research Group](https://halomind-research.github.io/)**
+
+I engineer hardware-efficient neural mechanisms, specifically sub-quadratic State Space Models (Mamba) and Deep Delta Learning (DDL). 
+
+All of my active research and production codebases are hosted under the **[Halo Mind Research Organization](https://github.com/HaloMind-Research)**. *(See my pinned repositories below for active IEEE and Q1-targeted frameworks).*
 
 </td>
 
@@ -37,19 +35,13 @@
 </tr>
 </table>
 
-# Research Focus
+# Core Architectural Pipelines
 
-- Research implementation projects in:
-  - Medical Imaging
-  - XAI & SSL
-  - Vision Transformers
-  - Remote Sensing AI
-  - OCR Systems
-  - Vision Language Models
+*   **Medical Vision:** Geometric Residual Learning for 3D Segmentation (DDL-Mamba) & Attention-Enhanced Swin Transformers.
+*   **Space Weather Forecasting:** CNN-DDL frameworks with Marginal Split Conformal Prediction wrappers.
+*   **Doc Analytics & OCR:** Self-supervised OCR pipelines for degraded Ashokan Brahmi scripts.
 
-- Focused on reproducible AI research systems
-- Building efficient deep learning architectures
-- Goal: Masters in AI / Computer Vision
+**Reach me at:** [latchanchhetri19@gmail.com](mailto:latchanchhetri19@gmail.com) | **Portfolio:** [halomind-research.github.io](https://halomind-research.github.io/)
 
 ---
 
