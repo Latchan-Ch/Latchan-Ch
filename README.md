@@ -44,7 +44,11 @@ All of my active research and production codebases are hosted under the **[Halo 
 *   **Doc Analytics & OCR:** Self-supervised OCR pipelines for degraded Ashokan Brahmi scripts, more..
 
 **Reach me at:** [latchanchhetri19@gmail.com](mailto:latchanchhetri19@gmail.com) 
+---
+
 **Personal Portfolio:** [latchan-ch.github.io](https://latchan-ch.github.io/)
+---
+
 **Research Group Portfolio:** [halomind-research.github.io](https://halomind-research.github.io/)
 
 ---
