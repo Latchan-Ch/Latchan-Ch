@@ -39,9 +39,9 @@ All of my active research and production codebases are hosted under the **[Halo 
 
 # Core Architectures & Pipelines
 
-*   **Medical Vision:** Geometric Residual Learning for 3D Segmentation (DDL-Mamba), Attention-Enhanced Swin Transformers, and more..
-*   **Space Weather Forecasting:** CNN-DDL frameworks for Space AI, Marginal Split Conformal Prediction wrappers, and more..
-*   **Doc Analytics & OCR:** Self-supervised OCR pipelines for degraded Ashokan Brahmi scripts, and more..
+*   **Medical Vision:** Geometric Residual Learning for 3D Segmentation (DDL-Mamba), Attention-Enhanced Swin Transformers, more..
+*   **Space Weather Forecasting:** CNN-DDL frameworks for Space AI, Marginal Split Conformal Prediction wrappers, more..
+*   **Doc Analytics & OCR:** Self-supervised OCR pipelines for degraded Ashokan Brahmi scripts, more..
 
 **Reach me at:** [latchanchhetri19@gmail.com](mailto:latchanchhetri19@gmail.com) | **Portfolio:** [halomind-research.github.io](https://halomind-research.github.io/)
 
