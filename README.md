@@ -21,7 +21,7 @@
   
 **Founder & Lead Research Architect @ [Halo Mind Research Group](https://halomind-research.github.io/)**
 
-I engineer hardware-efficient neural mechanisms, specifically sub-quadratic State Space Models (Mamba) and Deep Delta Learning (DDL). 
+I engineer hardware-efficient neural mechanisms, specifically sub-quadratic State Space Models (Mamba) and more. 
 
 All of my active research and production codebases are hosted under the **[Halo Mind Research Organization](https://github.com/HaloMind-Research)**. 
 
