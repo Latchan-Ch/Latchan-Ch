@@ -25,7 +25,7 @@ I engineer hardware-efficient neural mechanisms, specifically sub-quadratic Stat
 
 All of my active research and production codebases are hosted under the **[Halo Mind Research Organization](https://github.com/HaloMind-Research)**. 
 
-*(See my pinned repositories below for active IEEE and Q1-targeted frameworks).*
+*(See my pinned repositories below for active/published works).*
 
 </td>
 
