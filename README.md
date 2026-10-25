@@ -39,9 +39,9 @@ All of my active research and production codebases are hosted under the **[Halo 
 
 # Core Architectures & Pipelines
 
-*   **Medical Vision:** Geometric Residual Learning for 3D Segmentation (DDL-Mamba), Attention-Enhanced Swin Transformers, more..
-*   **Space AI:** CNN-DDL frameworks for Space AI, Marginal Split Conformal Prediction wrappers, EO, Foundational Models,more..
-*   **Doc Analytics & OCR:** Self-supervised OCR pipelines for degraded Ashokan Brahmi scripts, more..
+*   **Medical Vision:** 2D/3D Segmentation, Classifications, Attention-Enhanced Architectures, more..
+*   **Space AI:** DL frameworks for Space AI, Conformal Predictions, EO, Foundational Models, more..
+*   **Doc Analytics & OCR:** Self-supervised Learning, OCR pipelines for degraded Scripts, more..
 
 **Reach me at:** [latchanchhetri19@gmail.com](mailto:latchanchhetri19@gmail.com) 
 
